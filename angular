@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T19:12:39.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ABroJ6U4vWdPqzlwEA-n" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T05:40:05.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="re_YHHw_W31iWgjqg9l3" version="16.6.4" type="github">
   <diagram id="uEM9-fDLbeN0ABx6gtcH" name="Page-1">
-    <mxGraphModel dx="1872" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2128" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,6 +172,9 @@
         </mxCell>
         <mxCell id="y1dNn5l9trF3ovpFqRlj-46" value="header.component.ts(to control the flow of component)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="871" y="690" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y1dNn5l9trF3ovpFqRlj-52" value="1. communication between the modules :&amp;nbsp;&lt;br&gt;1. early loading : will impact performance (Core Module)&lt;br&gt;2. lazy loading : will improve the performance(others but as when ===&amp;gt; load them)&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="1150" width="390" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
